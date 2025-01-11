@@ -63,7 +63,7 @@ Error: 97163 doesn't exist.
 Error: 417416 doesn't exist.
 Error: 976974 doesn't exist.
 Error: 970380 doesn't exist.
-552743 has started a voice call at 2009/07/21-08:47:47.
+552743 has started a voice call at 2009/07/21-08:47:47
 Error: 622321 doesn't exist.
 Error: 552743 has already started a voice call.
 552743 has finished a voice call at 2009/07/21-09:00:36. Voice call time: 769.
@@ -123,7 +123,7 @@ Error: 764376 has already started a voice call.
 465066 status: hire-purchase.
 764376 has finished a voice call at 2009/11/14-06:29:00. Voice call time: 9557.
 465066 has been canceled. Charges: 28448 yen.
-Error: 892352 doesn't exist.
+Error: 892352 doesn't exist
 Error: 551952 doesn't exist.
 Error: 407614 doesn't exist.
 Error: 761929 doesn't exist.
@@ -142,7 +142,7 @@ Error: 169180 doesn't exist.
 773896 has finished a voice call at 2009/11/14-08:05:29. Voice call time: 116.
 Error: 14126 doesn't exist.
 764376 has started a voice call at 2009/11/14-08:11:28.
-773896 has started a voice call at 2009/11/14-08:12:44.
+773896 has started a voice call at 2009/11/14-08:12:44
 Number: 764376. Voice call time: 1450050. Data traffic: 76.75. Charges: 1215150 yen.
 Number: 773896. Voice call time: 1444779. Data traffic: 96.99. Charges: 1256373 yen.
 Error: 764376 has already started a voice call.
@@ -210,7 +210,7 @@ Number: 526113. Voice call time: 0. Data traffic: 76.11. Charges: 7000 yen.
 Number: 868876. Voice call time: 0. Data traffic: 133.12. Charges: 16811 yen.
 Number: 773203. Voice call time: 0. Data traffic: 160.13. Charges: 20327 yen.
 Number: 526113. Voice call time: 0. Data traffic: 99.44. Charges: 7000 yen.
-Number: 868876. Voice call time: 0. Data traffic: 27.80. Charges: 14811 yen.
+Number: 868876. Voice call time: 0. Data traffic: 27.8. Charges: 14811 yen.
 868876 has started a voice call at 2010/04/25-04:30:11.
 868876 has finished a voice call at 2010/04/25-04:34:23. Voice call time: 252.
 526113 has started a voice call at 2010/04/25-04:37:48.
@@ -436,7 +436,7 @@ Error: 106126 has already started a voice call.
 996038 has started a voice call at 2011/04/16-06:14:37.
 Number: 43777. Voice call time: 1280172. Data traffic: 12.82. Charges: 1069100 yen.
 Number: 826894. Voice call time: 2590366. Data traffic: 92.66. Charges: 2165999 yen.
-Number: 106126. Voice call time: 1318220. Data traffic: 153.92. Charges: 1110075 yen.
+Number: 106126. Voice call time: 1318220. Data traffic: 153.92. Charges: 111005 yen.
 Number: 475723. Voice call time: 1417. Data traffic: 10.29. Charges: 13793 yen.
 Number: 928830. Voice call time: 1281372. Data traffic: 92.58. Charges: 1090403 yen.
 Number: 725577. Voice call time: 0. Data traffic: 64.59. Charges: 9473 yen.
@@ -591,13 +591,13 @@ Number: 209997. Voice call time: 2678400. Data traffic: 154.22. Charges: 2238750
 Number: 523833. Voice call time: 2678400. Data traffic: 27.15. Charges: 2236750 yen.
 Number: 52779. Voice call time: 0. Data traffic: 101.40. Charges: 10845 yen.
 Number: 985464. Voice call time: 2505600. Data traffic: 164.34. Charges: 2094750 yen.
-Number: 826894. Voice call time: 2505600. Data traffic: 19.45. Charges: 2090250 yen.
+Number: 826894. Voice call time: 4247986. Data traffic: 19.45. Charges: 3542250 yen.
 Number: 725577. Voice call time: 2505600. Data traffic: 46.78. Charges: 2092750 yen.
 Number: 209997. Voice call time: 2505600. Data traffic: 170.21. Charges: 2094750 yen.
 Number: 523833. Voice call time: 2505600. Data traffic: 195.65. Charges: 2094750 yen.
 Number: 52779. Voice call time: 0. Data traffic: 31.69. Charges: 8845 yen.
 Number: 985464. Voice call time: 2678400. Data traffic: 197.61. Charges: 2238750 yen.
-Number: 826894. Voice call time: 2678400. Data traffic: 6.07. Charges: 2234250 yen.
+Number: 826894. Voice call time: 5356800. Data traffic: 6.07. Charges: 4466250 yen.
 Number: 725577. Voice call time: 2678400. Data traffic: 41.61. Charges: 2236750 yen.
 Number: 209997. Voice call time: 2678400. Data traffic: 100.20. Charges: 2238750 yen.
 Number: 523833. Voice call time: 2678400. Data traffic: 47.12. Charges: 2236750 yen.
@@ -608,8 +608,8 @@ Number: 52779. Voice call time: 0. Data traffic: 23.63. Charges: 8845 yen.
 39487 status: lump-sum.
 743431 status: hire-purchase.
 Error: 287399 doesn't exist.
-336435 status: hire-purchase.
-183880 status: lump-sum.
+336435 status: hire-purchase
+183880 status: lump-sum
 39487 has been canceled. Charges: 66462 yen.
 374381 status: lump-sum.
 323719 status: hire-purchase.
@@ -622,7 +622,7 @@ Error: 788620 doesn't exist.
 68969 status: no terminal charge.
 312738 has been canceled. Charges: 18127 yen.
 Number: 985464. Voice call time: 2592000. Data traffic: 14.98. Charges: 2162250 yen.
-Number: 826894. Voice call time: 2592000. Data traffic: 52.96. Charges: 2166750 yen.
+Number: 826894. Voice call time: 5182366. Data traffic: 52.96. Charges: 4325400 yen.
 Number: 725577. Voice call time: 2592000. Data traffic: 23.18. Charges: 2164750 yen.
 Number: 209997. Voice call time: 2592000. Data traffic: 186.08. Charges: 2166750 yen.
 Number: 523833. Voice call time: 2592000. Data traffic: 35.30. Charges: 2164750 yen.
@@ -633,7 +633,7 @@ Number: 743431. Voice call time: 0. Data traffic: 78.10. Charges: 10098 yen.
 Number: 994494. Voice call time: 0. Data traffic: 178.22. Charges: 12097 yen.
 Number: 374381. Voice call time: 0. Data traffic: 29.36. Charges: 80979 yen.
 Number: 323719. Voice call time: 0. Data traffic: 91.59. Charges: 7784 yen.
-Number: 976074. Voice call time: 0. Data traffic: 97.15. Charges: 7000 yen.
+Number: 976074. Voice call time: 0. Data traffic: 97.15. Charges: 7000 yen
 Number: 523706. Voice call time: 0. Data traffic: 183.30. Charges: 25565 yen.
 Number: 153298. Voice call time: 0. Data traffic: 144.16. Charges: 44354 yen.
 890225 status: hire-purchase.
